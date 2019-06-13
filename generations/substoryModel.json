@@ -1,0 +1,128 @@
+[
+    {
+        "_id": {
+            "$oid": "5c6ba0232f87d30024a9b4e6"
+        },
+        "active": true,
+        "cache_reset_inactivity_minutes": 120,
+        "created_at": {
+            "$date": 1550557219869
+        },
+        "description": "",
+        "modified_at": {
+            "$date": 1551944380094
+        },
+        "story_id": {
+            "$oid": "5c6ba00e2f87d30024a9b4e5"
+        },
+        "sub_story_name": "fund finder"
+    },
+    {
+        "_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "active": true,
+        "cache_reset_inactivity_minutes": 120,
+        "created_at": {
+            "$date": 1550640759070
+        },
+        "description": "",
+        "modified_at": {
+            "$date": 1550640759070
+        },
+        "story_id": {
+            "$oid": "5c6ce6682c3a0702d04ba029"
+        },
+        "sub_story_name": "Definitions"
+    },
+    {
+        "_id": {
+            "$oid": "5c878357d3464500b20f5644"
+        },
+        "active": true,
+        "cache_reset_inactivity_minutes": 120,
+        "created_at": {
+            "$date": 1552384855627
+        },
+        "description": "",
+        "modified_at": {
+            "$date": 1553244865611
+        },
+        "story_id": {
+            "$oid": "5c87834c9d496f00e41fc3ef"
+        },
+        "sub_story_name": "General Node"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c5696"
+        },
+        "active": true,
+        "cache_reset_inactivity_minutes": 120,
+        "created_at": {
+            "$date": 1553240209000
+        },
+        "description": "",
+        "modified_at": {
+            "$date": 1553244865673
+        },
+        "story_id": {
+            "$oid": "5c87834c9d496f00e41fc3ef"
+        },
+        "sub_story_name": "Lead Gen Flow"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040be94"
+        },
+        "active": true,
+        "cache_reset_inactivity_minutes": 120,
+        "created_at": {
+            "$date": 1553250394583
+        },
+        "description": "",
+        "modified_at": {
+            "$date": 1553250394583
+        },
+        "story_id": {
+            "$oid": "5c94a0e02d42b20024b223ec"
+        },
+        "sub_story_name": "order status"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8da"
+        },
+        "active": true,
+        "cache_reset_inactivity_minutes": 120,
+        "created_at": {
+            "$date": 1553250435154
+        },
+        "description": "",
+        "modified_at": {
+            "$date": 1553250435154
+        },
+        "story_id": {
+            "$oid": "5c94a0e02d42b20024b223ec"
+        },
+        "sub_story_name": "order status V1"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7c7"
+        },
+        "active": true,
+        "cache_reset_inactivity_minutes": 120,
+        "created_at": {
+            "$date": 1553251222441
+        },
+        "description": "",
+        "modified_at": {
+            "$date": 1553251222441
+        },
+        "story_id": {
+            "$oid": "5c94bb8750a1100024150f83"
+        },
+        "sub_story_name": "order status"
+    }
+]

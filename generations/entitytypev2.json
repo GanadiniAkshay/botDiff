@@ -1,0 +1,450 @@
+[
+    {
+        "_id": {
+            "$oid": "5a8bd95a0985f007e6a063cb"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1519114586389
+        },
+        "description": "Entity type that detects text that abide by the specified regex",
+        "modified_at": {
+            "$date": 1519114586389
+        },
+        "name": "regex"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9676"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826834
+        },
+        "description": "Entity that detects specific time along with range as well. It assigns default time range for Morning, Evening, etc.",
+        "modified_at": {
+            "$date": 1518076738402
+        },
+        "name": "time_with_range"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9677"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826837
+        },
+        "description": "Entity that is used to identify payload information for example product_id,product_name",
+        "modified_at": {
+            "$date": 1518076738405
+        },
+        "name": "completion"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b966d"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826810
+        },
+        "description": "Entity type to detect the phone number from a message or user profile",
+        "modified_at": {
+            "$date": 1518076738372
+        },
+        "name": "phone_number"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b967a"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826845
+        },
+        "description": "Entity type that is used to identify max budget",
+        "modified_at": {
+            "$date": 1518076738414
+        },
+        "name": "maximum_budget"
+    },
+    {
+        "_id": {
+            "$oid": "58f9c9620985f01432d993dd"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1490171226046
+        },
+        "description": "Entity type that sends chat to complete state",
+        "modified_at": {
+            "$date": 1518076738440
+        },
+        "name": "send_to_complete"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9669"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826799
+        },
+        "description": "Fetches the relevant entity value from dictionary. It works on a message",
+        "modified_at": {
+            "$date": 1518076738355
+        },
+        "name": "text"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b966c"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826808
+        },
+        "description": "Entity type to detect email from a message or user profile",
+        "modified_at": {
+            "$date": 1518076738370
+        },
+        "name": "email"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b967d"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826853
+        },
+        "description": "Entity type that is used to identify the departure date",
+        "modified_at": {
+            "$date": 1518076738426
+        },
+        "name": "departure_date"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b967f"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826858
+        },
+        "description": "Entity type that is used to identify age",
+        "modified_at": {
+            "$date": 1518076738435
+        },
+        "name": "age"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9678"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826839
+        },
+        "description": "Entity type that is used to identify budget",
+        "modified_at": {
+            "$date": 1518076738409
+        },
+        "name": "budget"
+    },
+    {
+        "_id": {
+            "$oid": "59479e8c0985f07fcd72dad5"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1495965068575
+        },
+        "description": "Entity type that returns the nearby places tagged by wit or from structured form",
+        "modified_at": {
+            "$date": 1518076738445
+        },
+        "name": "places"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9673"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826827
+        },
+        "description": "Entity type to detect numerals from the text",
+        "modified_at": {
+            "$date": 1518076738389
+        },
+        "name": "numeric_range"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b966b"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826805
+        },
+        "description": "Entity type to detect location from a message or user profile",
+        "modified_at": {
+            "$date": 1518076738366
+        },
+        "name": "location"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9674"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826829
+        },
+        "description": "Entity that detects date",
+        "modified_at": {
+            "$date": 1518076738397
+        },
+        "name": "date"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9679"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826842
+        },
+        "description": "Entity type that is used to identify min budget",
+        "modified_at": {
+            "$date": 1518076738411
+        },
+        "name": "minimum_budget"
+    },
+    {
+        "_id": {
+            "$oid": "59311e9d0985f06c34f49424"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1494411325641
+        },
+        "description": "Entity type that returns the device_name from user profile",
+        "modified_at": {
+            "$date": 1518076738443
+        },
+        "name": "device_name"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b966e"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1490171026813
+        },
+        "description": "Entity type to detect the username of a user from user profile",
+        "modified_at": {
+            "$date": 1516597298297
+        },
+        "name": "user_name"
+    },
+    {
+        "_id": {
+            "$oid": "59c37e260985f07e84acdbf1"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1504617838400
+        },
+        "description": "Entity type that detects the user's preferences from User Details",
+        "modified_at": {
+            "$date": 1518076738455
+        },
+        "name": "user_detail"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b966f"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826815
+        },
+        "description": "Entity type to detect gender from a message or user profile",
+        "modified_at": {
+            "$date": 1518076738375
+        },
+        "name": "gender"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9675"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826832
+        },
+        "description": "Entity that detects specific time",
+        "modified_at": {
+            "$date": 1518076738399
+        },
+        "name": "time"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b967e"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826856
+        },
+        "description": "Entity type that is used to identify the return date",
+        "modified_at": {
+            "$date": 1518076738431
+        },
+        "name": "arrival_date"
+    },
+    {
+        "_id": {
+            "$oid": "5a684ba10985f0050a22a532"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1516626145005
+        },
+        "description": "Entity type that detects user | person name.",
+        "modified_at": {
+            "$date": 1518076738462
+        },
+        "name": "person_name"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b967b"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826847
+        },
+        "description": "Entity type that is used to identify the departure city",
+        "modified_at": {
+            "$date": 1518076738421
+        },
+        "name": "departure_city"
+    },
+    {
+        "_id": {
+            "$oid": "595f3af50985f0345d6a3bdb"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1497690637853
+        },
+        "description": "Entity type that return count of adults, children or infant from text",
+        "modified_at": {
+            "$date": 1518076738450
+        },
+        "name": "passenger_count"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9670"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826818
+        },
+        "description": "Entity type to detect city from a message or returns the city from user profile",
+        "modified_at": {
+            "$date": 1518076738381
+        },
+        "name": "city"
+    },
+    {
+        "_id": {
+            "$oid": "59c37e260985f07e84acdbf0"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1504617838376
+        },
+        "description": "Entity Type that detects the user's saved address that is being passed by Elastic Search",
+        "modified_at": {
+            "$date": 1518076738452
+        },
+        "name": "saved_address"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b967c"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826850
+        },
+        "description": "Entity type that is used to identify the arrival city",
+        "modified_at": {
+            "$date": 1518076738424
+        },
+        "name": "arrival_city"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b966a"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826802
+        },
+        "description": "Fetches the entity values from dictionary. It works for a conversation",
+        "modified_at": {
+            "$date": 1518076738363
+        },
+        "name": "text_list"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9671"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826821
+        },
+        "description": "Entity type to detect pnr number",
+        "modified_at": {
+            "$date": 1518076738384
+        },
+        "name": "pnr"
+    },
+    {
+        "_id": {
+            "$oid": "58f75dda0985f00b783b9672"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1489992826824
+        },
+        "description": "Entity type to detect shopping size for example X, XL, Large, etc",
+        "modified_at": {
+            "$date": 1518076738387
+        },
+        "name": "shopping_size"
+    },
+    {
+        "_id": {
+            "$oid": "5c0767920985f03d8318fdd5"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1543989138079
+        },
+        "description": "Accepts a file upload as entity. Returns a url to that uploaded file",
+        "modified_at": {
+            "$date": 1543989138079
+        },
+        "name": "attachment"
+    }
+]

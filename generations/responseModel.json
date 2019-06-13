@@ -1,0 +1,2056 @@
+[
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040be9d"
+        },
+        "created_at": {
+            "$date": 1553250394679
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250394679
+        },
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Sorry you had to face this. Please share your contact details so our customer support team can get in touch. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{chatform}{512}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040be9e"
+        },
+        "created_at": {
+            "$date": 1553250394680
+        },
+        "entity_name": "person_name",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250394680
+        },
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Hey, looks like you forgot to mention your name. I'll need that to move ahead.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040be9f"
+        },
+        "created_at": {
+            "$date": 1553250394681
+        },
+        "entity_name": "email_no_profile_check",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250394681
+        },
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Looks like you forgot to provide your email. We'll need that to move ahead! \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bea0"
+        },
+        "created_at": {
+            "$date": 1553250394682
+        },
+        "entity_name": "phone_number",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250394682
+        },
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"What is your preferred phone number? \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bea1"
+        },
+        "created_at": {
+            "$date": 1553250394683
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250394683
+        },
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "Got it! \u2714\ufe0fOur customer support agents will get in touch with you shortly to resolve this issue. <m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nOnce all user information has been collected, the API call will be made to send this data to the partner. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8e3"
+        },
+        "created_at": {
+            "$date": 1553250435250
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435250
+        },
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Sorry you had to face this. Please share your contact details so our customer support team can get in touch. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{chatform}{512}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8e4"
+        },
+        "created_at": {
+            "$date": 1553250435252
+        },
+        "entity_name": "person_name",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435252
+        },
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Hey, looks like you forgot to mention your name. I'll need that to move ahead.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8e5"
+        },
+        "created_at": {
+            "$date": 1553250435253
+        },
+        "entity_name": "email_no_profile_check",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435253
+        },
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Looks like you forgot to provide your email. We'll need that to move ahead! \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8e6"
+        },
+        "created_at": {
+            "$date": 1553250435254
+        },
+        "entity_name": "phone_number",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435254
+        },
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"What is your preferred phone number? \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8e7"
+        },
+        "created_at": {
+            "$date": 1553250435256
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435256
+        },
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "Got it! \u2714\ufe0fOur customer support agents will get in touch with you shortly to resolve this issue. <m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nOnce all user information has been collected, the API call will be made to send this data to the partner. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7d0"
+        },
+        "created_at": {
+            "$date": 1553251222536
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251222536
+        },
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Sorry you had to face this. Please share your contact details so our customer support team can get in touch. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{chatform}{512}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7d1"
+        },
+        "created_at": {
+            "$date": 1553251222537
+        },
+        "entity_name": "person_name",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251222537
+        },
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Hey, looks like you forgot to mention your name. I'll need that to move ahead.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7d2"
+        },
+        "created_at": {
+            "$date": 1553251222539
+        },
+        "entity_name": "email_no_profile_check",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251222539
+        },
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Looks like you forgot to provide your email. We'll need that to move ahead! \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7d3"
+        },
+        "created_at": {
+            "$date": 1553251222540
+        },
+        "entity_name": "phone_number",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251222540
+        },
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"What is your preferred phone number? \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7d4"
+        },
+        "created_at": {
+            "$date": 1553251222541
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251222541
+        },
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "Got it! \u2714\ufe0fOur customer support agents will get in touch with you shortly to resolve this issue. <m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nOnce all user information has been collected, the API call will be made to send this data to the partner. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf2b"
+        },
+        "created_at": {
+            "$date": 1553250395225
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250395225
+        },
+        "node_name": "FIND_ORDER_ID_V18",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "You can find your [\u270f\ufe0forder ID] in two places:\n\u25cf [\u270f\ufe0fin the confirmation email sent to your registered email ID]\n\u25cf [\u270f\ufe0fin your profile details on our website]<m>{\"text\":\"Found your order ID? Enter it here. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"\ud83d\udea8Still can't find it\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"\ud83d\udea8Still can't find it\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c971"
+        },
+        "created_at": {
+            "$date": 1553250435911
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435912
+        },
+        "node_name": "FIND_ORDER_ID_V19",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "You can find your [\u270f\ufe0forder ID] in two places:\n\u25cf [\u270f\ufe0fin the confirmation email sent to your registered email ID]\n\u25cf [\u270f\ufe0fin your profile details on our website]<m>{\"text\":\"Found your order ID? Enter it here. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"\ud83d\udea8Still can't find it\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"\ud83d\udea8Still can't find it\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc85e"
+        },
+        "created_at": {
+            "$date": 1553251223230
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251223230
+        },
+        "node_name": "FIND_ORDER_ID_V20",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "You can find your [\u270f\ufe0forder ID] in two places:\n\u25cf [\u270f\ufe0fin the confirmation email sent to your registered email ID]\n\u25cf [\u270f\ufe0fin your profile details on our website]<m>{\"text\":\"Found your order ID? Enter it here. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"\ud83d\udea8Still can't find it\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"\ud83d\udea8Still can't find it\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56b1"
+        },
+        "created_at": {
+            "$date": 1553240209147
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209147
+        },
+        "node_name": "LEADGEN_ELIGIBLE_V7",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Thanks! We'll be in touch. \ud83d\ude0a\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nOnce the user has input all information, the API will call and user information will be sent to partner sponsor. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56df"
+        },
+        "created_at": {
+            "$date": 1553240209422
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209422
+        },
+        "node_name": "LEADGEN_INELIGIBLE_V7",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Thanks for the info! \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"At this point, it makes sense to [\u270f\ufe0fsave your hard-earned money for some more time. Once you have enough savings, you can opt for Life Insurance \ud83d\ude07]\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c569e"
+        },
+        "created_at": {
+            "$date": 1553240209066
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209066
+        },
+        "node_name": "LEADGEN_NOT_INTERESTED_V7",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"No worries! I'm always here if you change your mind. \ud83d\ude42\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56be"
+        },
+        "created_at": {
+            "$date": 1553240209223
+        },
+        "entity_name": "pan_card",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209223
+        },
+        "node_name": "PAN_CARD_V7",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Can you please share your PAN card number?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56bf"
+        },
+        "created_at": {
+            "$date": 1553240209225
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209225
+        },
+        "node_name": "PAN_CARD_V7",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Can you please share your PAN card number?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56c0"
+        },
+        "created_at": {
+            "$date": 1553240209226
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209226
+        },
+        "node_name": "PAN_CARD_V7",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            " "
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56c5"
+        },
+        "created_at": {
+            "$date": 1553240209269
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209269
+        },
+        "node_name": "QUALIFICATION_DATA_V7",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Right away! Please help me with the details below to help our friends at [\u270f\ufe0fpartner sponsor] get in touch. \ud83d\ude0a\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{chatform}{511}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56c6"
+        },
+        "created_at": {
+            "$date": 1553240209270
+        },
+        "entity_name": "person_name",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209270
+        },
+        "node_name": "QUALIFICATION_DATA_V7",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Right away! Please help me with the details below to help us get in touch with you. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{chatform}{511}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56c7"
+        },
+        "created_at": {
+            "$date": 1553240209271
+        },
+        "entity_name": "completion_email",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209271
+        },
+        "node_name": "QUALIFICATION_DATA_V7",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! Looks like you left out your email ID. We'll need that to move ahead. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56c8"
+        },
+        "created_at": {
+            "$date": 1553240209272
+        },
+        "entity_name": "phone_number",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209272
+        },
+        "node_name": "QUALIFICATION_DATA_V7",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"We'll also need your phone number to move ahead. \ud83d\ude0a\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56c9"
+        },
+        "created_at": {
+            "$date": 1553240209273
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209273
+        },
+        "node_name": "QUALIFICATION_DATA_V7",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            " "
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56d5"
+        },
+        "created_at": {
+            "$date": 1553240209364
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209364
+        },
+        "node_name": "QUALIFYING_DATA_V8",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Great! Just a few more details:\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{chatform}{530}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56d6"
+        },
+        "created_at": {
+            "$date": 1553240209365
+        },
+        "entity_name": "age_range",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209365
+        },
+        "node_name": "QUALIFYING_DATA_V8",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! Looks like you forgot to share your age. We'll need that to move ahead. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56d7"
+        },
+        "created_at": {
+            "$date": 1553240209366
+        },
+        "entity_name": "coverfox_gender",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209366
+        },
+        "node_name": "QUALIFYING_DATA_V8",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Looks like you've left out your gender. We'll need that to move ahead. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56d8"
+        },
+        "created_at": {
+            "$date": 1553240209367
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553240209367
+        },
+        "node_name": "QUALIFYING_DATA_V8",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "{\"text\":\"As a last step, can you please help me with your annual income?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"<3 L\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"<3 L\",\"gogo_message\":\"\"}},{\"actionable_text\":\"3 - 5 L\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"3 - 5 L\",\"gogo_message\":\"\"}},{\"actionable_text\":\"5 - 10 L\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"5 - 10 L\",\"gogo_message\":\"\"}},{\"actionable_text\":\">10 L\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\">10 L\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bf08"
+        },
+        "created_at": {
+            "$date": 1553250394982
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250394982
+        },
+        "node_name": "STATUS_ATTEMPT_1_V18",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Right away! Please help me with your order ID so that I can get started.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"\ud83d\udca1Tip: You can find your [\u270f\ufe0forder ID] in [\u270f\ufe0fthe confirmation mail sent to your registered email address].\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nOnce the user has input an order ID value that meets the \\\"order_ID\\\" criteria, the first API call will be made here. If user inputs a valid ID, the API will return order status here and the flow will end.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs an invalid order ID, the API will return an error message that will prompt the user to try re-entering the order number. To move ahead in the flow, enter another 6-digit order ID. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Can't find order ID \ud83d\ude33\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Can't find order ID \ud83d\ude33\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bf09"
+        },
+        "created_at": {
+            "$date": 1553250394983
+        },
+        "entity_name": "invalid_pnr",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250394983
+        },
+        "node_name": "STATUS_ATTEMPT_1_V18",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Right away! Please help me with your order ID so that I can get started.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"\ud83d\udca1Tip: You can find your [\u270f\ufe0forder ID] in [\u270f\ufe0fthe confirmation mail sent to your registered email address].\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nOnce the user has input an order ID value that meets the \\\"order_ID\\\" criteria, the first API call will be made here. If user inputs a valid ID, the API will return order status here and the flow will end.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs an invalid order ID, the API will return an error message that will prompt the user to try re-entering the order number. To move ahead in the flow, enter another 6-digit order ID. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Can't find order ID \ud83d\ude33\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Can't find order ID \ud83d\ude33\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bf0a"
+        },
+        "created_at": {
+            "$date": 1553250394984
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250394984
+        },
+        "node_name": "STATUS_ATTEMPT_1_V18",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "< \ud83d\udc7eAPI Tip >\n\nNow that the user has input an order ID value that meets the \"order_ID\" criteria, the first API call will be made here. If user inputs a valid ID, the API will return order status here and the flow will end.<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs an invalid order ID, the API will return an error message that will prompt the user to try entering order number again. To move ahead in the flow, enter another 6-digit order ID. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c94e"
+        },
+        "created_at": {
+            "$date": 1553250435621
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435621
+        },
+        "node_name": "STATUS_ATTEMPT_1_V19",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Right away! Please help me with your order ID so that I can get started.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"\ud83d\udca1Tip: You can find your [\u270f\ufe0forder ID] in [\u270f\ufe0fthe confirmation mail sent to your registered email address].\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nOnce the user has input an order ID value that meets the \\\"order_ID\\\" criteria, the first API call will be made here. If user inputs a valid ID, the API will return order status here and the flow will end.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs an invalid order ID, the API will return an error message that will prompt the user to try re-entering the order number. To move ahead in the flow, enter another 6-digit order ID. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Can't find order ID \ud83d\ude33\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Can't find order ID \ud83d\ude33\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c94f"
+        },
+        "created_at": {
+            "$date": 1553250435622
+        },
+        "entity_name": "invalid_pnr",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435622
+        },
+        "node_name": "STATUS_ATTEMPT_1_V19",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Right away! Please help me with your order ID so that I can get started.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"\ud83d\udca1Tip: You can find your [\u270f\ufe0forder ID] in [\u270f\ufe0fthe confirmation mail sent to your registered email address].\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nOnce the user has input an order ID value that meets the \\\"order_ID\\\" criteria, the first API call will be made here. If user inputs a valid ID, the API will return order status here and the flow will end.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs an invalid order ID, the API will return an error message that will prompt the user to try re-entering the order number. To move ahead in the flow, enter another 6-digit order ID. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Can't find order ID \ud83d\ude33\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Can't find order ID \ud83d\ude33\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c950"
+        },
+        "created_at": {
+            "$date": 1553250435624
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435624
+        },
+        "node_name": "STATUS_ATTEMPT_1_V19",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "< \ud83d\udc7eAPI Tip >\n\nNow that the user has input an order ID value that meets the \"order_ID\" criteria, the first API call will be made here. If user inputs a valid ID, the API will return order status here and the flow will end.<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs an invalid order ID, the API will return an error message that will prompt the user to try entering order number again. To move ahead in the flow, enter another 6-digit order ID. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc83b"
+        },
+        "created_at": {
+            "$date": 1553251222937
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251222937
+        },
+        "node_name": "STATUS_ATTEMPT_1_V20",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Right away! Please help me with your order ID so that I can get started.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"\ud83d\udca1Tip: You can find your [\u270f\ufe0forder ID] in [\u270f\ufe0fthe confirmation mail sent to your registered email address].\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nOnce the user has input an order ID value that meets the \\\"order_ID\\\" criteria, the first API call will be made here. If user inputs a valid ID, the API will return order status here and the flow will end.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs an invalid order ID, the API will return an error message that will prompt the user to try re-entering the order number. To move ahead in the flow, enter another 6-digit order ID. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Can't find order ID \ud83d\ude33\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Can't find order ID \ud83d\ude33\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc83c"
+        },
+        "created_at": {
+            "$date": 1553251222938
+        },
+        "entity_name": "invalid_pnr",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251222938
+        },
+        "node_name": "STATUS_ATTEMPT_1_V20",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Right away! Please help me with your order ID so that I can get started.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"\ud83d\udca1Tip: You can find your [\u270f\ufe0forder ID] in [\u270f\ufe0fthe confirmation mail sent to your registered email address].\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nOnce the user has input an order ID value that meets the \\\"order_ID\\\" criteria, the first API call will be made here. If user inputs a valid ID, the API will return order status here and the flow will end.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs an invalid order ID, the API will return an error message that will prompt the user to try re-entering the order number. To move ahead in the flow, enter another 6-digit order ID. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Can't find order ID \ud83d\ude33\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Can't find order ID \ud83d\ude33\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc83d"
+        },
+        "created_at": {
+            "$date": 1553251222940
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251222940
+        },
+        "node_name": "STATUS_ATTEMPT_1_V20",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "< \ud83d\udc7eAPI Tip >\n\nNow that the user has input an order ID value that meets the \"order_ID\" criteria, the first API call will be made here. If user inputs a valid ID, the API will return order status here and the flow will end.<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs an invalid order ID, the API will return an error message that will prompt the user to try entering order number again. To move ahead in the flow, enter another 6-digit order ID. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf10"
+        },
+        "created_at": {
+            "$date": 1553250395055
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250395055
+        },
+        "node_name": "STATUS_ATTEMPT_2_V18",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Oops! We'll need your order ID to get you your order status. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf11"
+        },
+        "created_at": {
+            "$date": 1553250395058
+        },
+        "entity_name": "invalid_pnr",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250395058
+        },
+        "node_name": "STATUS_ATTEMPT_2_V18",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! We'll need your order ID to get you your order status. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf12"
+        },
+        "created_at": {
+            "$date": 1553250395059
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250395059
+        },
+        "node_name": "STATUS_ATTEMPT_2_V18",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "< \ud83d\udc7eAPI Tip >\n\nOnce user has entered another order ID that matches the \"order_id\" entity criteria, the second API call will happen here.<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs a valid ID, the API will return the order status and the flow will end here. If user inputs an invalid ID, the API will return an error message prompting user to try one more time to re-enter a valid ID. To move ahead in the flow, enter another 6-digit order ID.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c956"
+        },
+        "created_at": {
+            "$date": 1553250435709
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435709
+        },
+        "node_name": "STATUS_ATTEMPT_2_V19",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Oops! We'll need your order ID to get you your order status. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c957"
+        },
+        "created_at": {
+            "$date": 1553250435711
+        },
+        "entity_name": "invalid_pnr",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435711
+        },
+        "node_name": "STATUS_ATTEMPT_2_V19",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! We'll need your order ID to get you your order status. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c958"
+        },
+        "created_at": {
+            "$date": 1553250435712
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435712
+        },
+        "node_name": "STATUS_ATTEMPT_2_V19",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "< \ud83d\udc7eAPI Tip >\n\nOnce user has entered another order ID that matches the \"order_id\" entity criteria, the second API call will happen here.<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs a valid ID, the API will return the order status and the flow will end here. If user inputs an invalid ID, the API will return an error message prompting user to try one more time to re-enter a valid ID. To move ahead in the flow, enter another 6-digit order ID.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc843"
+        },
+        "created_at": {
+            "$date": 1553251223027
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251223027
+        },
+        "node_name": "STATUS_ATTEMPT_2_V20",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Oops! We'll need your order ID to get you your order status. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc844"
+        },
+        "created_at": {
+            "$date": 1553251223028
+        },
+        "entity_name": "invalid_pnr",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251223028
+        },
+        "node_name": "STATUS_ATTEMPT_2_V20",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! We'll need your order ID to get you your order status. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc845"
+        },
+        "created_at": {
+            "$date": 1553251223030
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251223030
+        },
+        "node_name": "STATUS_ATTEMPT_2_V20",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "< \ud83d\udc7eAPI Tip >\n\nOnce user has entered another order ID that matches the \"order_id\" entity criteria, the second API call will happen here.<m>{\"text\":\"< \ud83d\udc7eAPI Tip > \\n\\nIf user inputs a valid ID, the API will return the order status and the flow will end here. If user inputs an invalid ID, the API will return an error message prompting user to try one more time to re-enter a valid ID. To move ahead in the flow, enter another 6-digit order ID.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf1b"
+        },
+        "created_at": {
+            "$date": 1553250395136
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250395136
+        },
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\" \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf1c"
+        },
+        "created_at": {
+            "$date": 1553250395137
+        },
+        "entity_name": "invalid_pnr",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250395137
+        },
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! We'll need an order ID to get you your order status.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf1d"
+        },
+        "created_at": {
+            "$date": 1553250395138
+        },
+        "entity_name": "person_name",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250395138
+        },
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nAfter the user tries again to input a valid order ID, the third API is called. If user input a valid ID, he'll receive a message with order status and the flow will end. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nIf user input an invalid ID, API will return a message prompting user to input contact details so customer care can get in touch. To proceed to next node, input the following values. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udce3UX Tip > \\n\\nTo make this template live, delete the chatform from this bot says and add as part of the API return message. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{chatform}{512}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf1e"
+        },
+        "created_at": {
+            "$date": 1553250395139
+        },
+        "entity_name": "email_no_profile_check",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250395139
+        },
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! Looks like you forgot to include your email ID. We'll need that to move ahead. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf1f"
+        },
+        "created_at": {
+            "$date": 1553250395140
+        },
+        "entity_name": "phone_number",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250395140
+        },
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Looks like you forgot your phone number. We'll need that to move ahead.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf20"
+        },
+        "created_at": {
+            "$date": 1553250395142
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250395142
+        },
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "*filler*"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c961"
+        },
+        "created_at": {
+            "$date": 1553250435803
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435803
+        },
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\" \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c962"
+        },
+        "created_at": {
+            "$date": 1553250435805
+        },
+        "entity_name": "invalid_pnr",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435805
+        },
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! We'll need an order ID to get you your order status.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c963"
+        },
+        "created_at": {
+            "$date": 1553250435806
+        },
+        "entity_name": "person_name",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435806
+        },
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nAfter the user tries again to input a valid order ID, the third API is called. If user input a valid ID, he'll receive a message with order status and the flow will end. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nIf user input an invalid ID, API will return a message prompting user to input contact details so customer care can get in touch. To proceed to next node, input the following values. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udce3UX Tip > \\n\\nTo make this template live, delete the chatform from this bot says and add as part of the API return message. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{chatform}{512}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c964"
+        },
+        "created_at": {
+            "$date": 1553250435807
+        },
+        "entity_name": "email_no_profile_check",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435807
+        },
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! Looks like you forgot to include your email ID. We'll need that to move ahead. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c965"
+        },
+        "created_at": {
+            "$date": 1553250435808
+        },
+        "entity_name": "phone_number",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435808
+        },
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Looks like you forgot your phone number. We'll need that to move ahead.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c966"
+        },
+        "created_at": {
+            "$date": 1553250435810
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553250435810
+        },
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "*filler*"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc84e"
+        },
+        "created_at": {
+            "$date": 1553251223123
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251223123
+        },
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\" \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc84f"
+        },
+        "created_at": {
+            "$date": 1553251223124
+        },
+        "entity_name": "invalid_pnr",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251223124
+        },
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! We'll need an order ID to get you your order status.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc850"
+        },
+        "created_at": {
+            "$date": 1553251223126
+        },
+        "entity_name": "person_name",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251223126
+        },
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nAfter the user tries again to input a valid order ID, the third API is called. If user input a valid ID, he'll receive a message with order status and the flow will end. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nIf user input an invalid ID, API will return a message prompting user to input contact details so customer care can get in touch. To proceed to next node, input the following values. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udce3UX Tip > \\n\\nTo make this template live, delete the chatform from this bot says and add as part of the API return message. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{chatform}{512}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc851"
+        },
+        "created_at": {
+            "$date": 1553251223127
+        },
+        "entity_name": "email_no_profile_check",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251223127
+        },
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Oops! Looks like you forgot to include your email ID. We'll need that to move ahead. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc852"
+        },
+        "created_at": {
+            "$date": 1553251223128
+        },
+        "entity_name": "phone_number",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251223128
+        },
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"Looks like you forgot your phone number. We'll need that to move ahead.\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc853"
+        },
+        "created_at": {
+            "$date": 1553251223130
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553251223130
+        },
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "*filler*"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6ba0806ba081001f382390"
+        },
+        "created_at": {
+            "$date": 1550557312223
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550557312223
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_FINDER",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "Sure I can help you with it.<m>what is your name?"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6bd6dff2a4fe0021f7c642"
+        },
+        "created_at": {
+            "$date": 1550571231113
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550571231113
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_FINDER",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "Okay"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6bd6dff2a4fe0021f7c643"
+        },
+        "created_at": {
+            "$date": 1550571231116
+        },
+        "entity_name": "person_name",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550571231116
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_FINDER",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "Sure I can help you with it.<m>what is your name?"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6bf87d2c3a0700214ba02c"
+        },
+        "created_at": {
+            "$date": 1550579837925
+        },
+        "entity_name": "risk_tolerance",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550579837925
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_FINDER",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"So %entitytag_person_name, how much risk are you willing to take?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"High\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"High\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Moderate\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Moderate\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Low\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Low\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6c01242c3a0700b34ba027"
+        },
+        "created_at": {
+            "$date": 1550582052837
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550582052837
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_LENGTH",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"What tenure are you looking to invest in?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Short Term\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Short Term\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Long Term\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Long Term\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6c01242c3a0700b34ba028"
+        },
+        "created_at": {
+            "$date": 1550582052839
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550582052839
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_LENGTH",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "%entitytag_person_name, here are your mutual funds for  %entitytag_risk_tolerance risk\n %entitytag_fund_types funds<m>{\"text\":\"Mutual Funds\",\"type\":\"CAROUSEL\",\"data\":{\"image_aspect_ratio\":\"1.77\",\"width\":\"MEDIUM\",\"items\":[{\"thumbnail\":{\"image\":\"\"},\"title\":\"ICICI Mutual Funds\",\"sub_title\":\"Mutual Funds by ICICI\",\"actionables\":[{\"actionable_text\":\"Invest\",\"location_required\":false,\"is_default\":0,\"payload\":{\"gogo_message\":\"\"}},{\"actionable_text\":\"Get Details\",\"location_required\":false,\"is_default\":0,\"payload\":{\"gogo_message\":\"\"}}]},{\"thumbnail\":{\"image\":\"\"},\"title\":\"Kotak Mutual Funds\",\"sub_title\":\"Mutual Funds by Kotak\",\"actionables\":[{\"actionable_text\":\"Invest\",\"location_required\":false,\"is_default\":0,\"payload\":{\"gogo_message\":\"\"}},{\"actionable_text\":\"Get Details\",\"location_required\":false,\"is_default\":0,\"payload\":{\"gogo_message\":\"\"}}]}]},\"isNew\":false}<m>{\"type\":\"BUTTON\",\"data\":{\"items\":[{\"actionable_text\":\"Button 1\",\"location_required\":false,\"is_default\":0,\"uri\":\"LINK\",\"type\":\"APP_ACTION\",\"payload\":{\"launch_inapp\":true,\"url\":\"https://s3.ap-south-1.amazonaws.com/tools-cdn/explorations/test_webview2.html\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6c01242c3a0700b34ba029"
+        },
+        "created_at": {
+            "$date": 1550582052841
+        },
+        "entity_name": "fund_length",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550582052841
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_LENGTH",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"What tenure are you looking to invest in?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Short Term\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Short Term\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Long Term\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Long Term\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6c030039e85e00bfe70f0b"
+        },
+        "created_at": {
+            "$date": 1550582528591
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550582528591
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_LENGTH",
+        "quick_responses": [],
+        "response_type": 3,
+        "responses": [
+            ""
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6bfc1e2c3a0700224ba030"
+        },
+        "created_at": {
+            "$date": 1550580766401
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550580766401
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_LOW",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"What type of funds would you like to invest in?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Debt\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Debt\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Money Market\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Money Market\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6c005639e85e0099e70f0a"
+        },
+        "created_at": {
+            "$date": 1550581846042
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550581846042
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_LOW",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "Okay"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6c005639e85e0099e70f0b"
+        },
+        "created_at": {
+            "$date": 1550581846045
+        },
+        "entity_name": "fund_types",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550581846045
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_LOW",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"What type of funds would you like to invest in?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Debt\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Debt\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Money Market\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Money Market\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6bfc6c39e85e001de70f0f"
+        },
+        "created_at": {
+            "$date": 1550580844417
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550580844417
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_MODERATE",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"What type of funds would you like to invest in?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Mid Cap\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Mid Cap\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Hybrid\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Hybrid\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6bfffbc738af00a95eaf52"
+        },
+        "created_at": {
+            "$date": 1550581755232
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550581755232
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_MODERATE",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "Okay"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6bfffbc738af00a95eaf53"
+        },
+        "created_at": {
+            "$date": 1550581755235
+        },
+        "entity_name": "fund_types",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550581755235
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_MODERATE",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"What type of funds would you like to invest in?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Mid Cap\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Mid Cap\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Hybrid\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Hybrid\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9b667df5f8a51e8aad045c"
+        },
+        "created_at": {
+            "$date": 1553688189828
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553688189828
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_MODERATE",
+        "quick_responses": [],
+        "response_type": 4,
+        "responses": [],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c9b667df5f8a51e8aad045d"
+        },
+        "created_at": {
+            "$date": 1553688189830
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1553688189830
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_MODERATE",
+        "quick_responses": [],
+        "response_type": 5,
+        "responses": [],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6bfbf50e18de001f19623f"
+        },
+        "created_at": {
+            "$date": 1550580725258
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550580725258
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_SELECTOR",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"What type of funds would you like to invest in?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Equity\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Equity\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Large Cap\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Large Cap\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6bffb60e18de00da19623a"
+        },
+        "created_at": {
+            "$date": 1550581686824
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550581686824
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_SELECTOR",
+        "quick_responses": [],
+        "response_type": 2,
+        "responses": [
+            "Okay"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6bffb60e18de00da19623b"
+        },
+        "created_at": {
+            "$date": 1550581686826
+        },
+        "entity_name": "fund_types",
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550581686826
+        },
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_SELECTOR",
+        "quick_responses": [],
+        "response_type": 1,
+        "responses": [
+            "{\"text\":\"What type of funds would you like to invest in?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"Equity\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Equity\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Large Cap\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Large Cap\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6d2de71b540a0159bd0b98"
+        },
+        "created_at": {
+            "$date": 1550659047243
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550659047243
+        },
+        "node_name": "akshay_fund_test::Get_Information::COMPARISONS",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Here are some other investment options available to you.\",\"type\":\"BUTTON\",\"data\":{\"items\":[{\"actionable_text\":\"Stocks\",\"location_required\":false,\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"message\":\"Stocks\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Land\",\"location_required\":false,\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"message\":\"Land\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Gold\",\"location_required\":false,\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"message\":\"Gold\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6d119e0eff9300235a2461"
+        },
+        "created_at": {
+            "$date": 1550651806212
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550651806212
+        },
+        "node_name": "akshay_fund_test::Get_Information::DEMAT",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "A Demat Account is an account that allows investors to hold their shares in an electronic form."
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6d146fd589670024a982ec"
+        },
+        "created_at": {
+            "$date": 1550652527954
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550652527954
+        },
+        "node_name": "akshay_fund_test::Get_Information::ELSS",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "Equity-linked savings scheme popularly known as ELSS are close-ended, lock-in period of 3 years diversified equity schemes offered by mutual funds in India."
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c7f9faf79261b00ec35d0db"
+        },
+        "created_at": {
+            "$date": 1551867823641
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1551867823641
+        },
+        "node_name": "akshay_fund_test::Get_Information::HKJH",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "hey thee"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6ce7bb2c3a0702a84ba027"
+        },
+        "created_at": {
+            "$date": 1550641083327
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550641083327
+        },
+        "node_name": "akshay_fund_test::Get_Information::LEARN_MUTUAL_FUNDS",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "Sure, I can help you with it.<m>{\"text\":\"What do you specifically want to learn about?\",\"type\":\"BUTTON\",\"data\":{\"items\":[{\"actionable_text\":\"Terminology\",\"location_required\":false,\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"message\":\"Terminology\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Comparisons\",\"location_required\":false,\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"message\":\"Comparisons\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Process\",\"location_required\":false,\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"message\":\"Process\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Timing\",\"location_required\":false,\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"message\":\"Timing\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6d11fe1b540a001ebd0b99"
+        },
+        "created_at": {
+            "$date": 1550651902244
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550651902244
+        },
+        "node_name": "akshay_fund_test::Get_Information::NAV",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "Net asset value (NAV) represents a fund's per share market value."
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6d21c71b540a001ebd0ba1"
+        },
+        "created_at": {
+            "$date": 1550655943716
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550655943716
+        },
+        "node_name": "akshay_fund_test::Get_Information::PROCESS",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "The best way to invest in mutual funds is through systematic investment plans (SIPs).\n\n SIP allows you to purchase units of your selected mutual fund as per your budget at fixed intervals (typically, once a month). \n\nYou can also link SIP with your bank account for automatic debits."
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6d10ff4c4640001d55290c"
+        },
+        "created_at": {
+            "$date": 1550651647523
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550651647523
+        },
+        "node_name": "akshay_fund_test::Get_Information::SIP",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "A Systematic Investment Plan allows you to invest small amounts periodically instead of lump sums"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c6d03600e18de0391196237"
+        },
+        "created_at": {
+            "$date": 1550648160860
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1550648160860
+        },
+        "node_name": "akshay_fund_test::Get_Information::TERMINOLOGY",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "{\"text\":\"Which term do you want to learn about?\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"SIP\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"SIP\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Demat\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"Demat\",\"gogo_message\":\"\"}},{\"actionable_text\":\"NAV\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"NAV\",\"gogo_message\":\"\"}},{\"actionable_text\":\"ELSS\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"ELSS\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    },
+    {
+        "_id": {
+            "$oid": "5c8b546356bdff07aa4b2de0"
+        },
+        "created_at": {
+            "$date": 1552634979030
+        },
+        "entity_name": null,
+        "language_script": "en",
+        "modified_at": {
+            "$date": 1552634979030
+        },
+        "node_name": "akshay_fund_test::Testing::GENERAL",
+        "quick_responses": [],
+        "response_type": 0,
+        "responses": [
+            "test<m>{\"text\":\"What do you want to do?\",\"type\":\"BUTTON\",\"data\":{\"items\":[{\"actionable_text\":\"Call Support\",\"location_required\":false,\"is_default\":0,\"type\":\"CALL\",\"payload\":{\"number\":\"9505147139\",\"gogo_message\":\"\"}},{\"actionable_text\":\"Share\",\"location_required\":false,\"is_default\":0,\"uri\":\"SELF_SERVE_WEB\",\"type\":\"APP_ACTION\",\"payload\":{\"message\":\"share \",\"whatsapp_share_message\":\"share\",\"gogo_message\":\"\",\"url\":\"https://staging.hellohaptik.com/tools/nearby/?coll_id=285513\",\"launch_inapp\":true,\"webview_height\":\"1\"}}]},\"isNew\":false}"
+        ],
+        "sentence_ref_id": null,
+        "source_language": "en"
+    }
+]

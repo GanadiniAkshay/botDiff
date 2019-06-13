@@ -1,0 +1,17 @@
+[
+    {
+        "_id": {
+            "$oid": "5c6b9fe66ba081001d382391"
+        },
+        "active": true,
+        "created_at": {
+            "$date": 1550557158321
+        },
+        "domain_name": "akshay_fund_test",
+        "modified_at": {
+            "$date": 1550557158321
+        },
+        "template_priority_list": [],
+        "templates": {}
+    }
+]

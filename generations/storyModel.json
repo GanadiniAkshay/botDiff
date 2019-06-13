@@ -1,0 +1,92 @@
+[
+    {
+        "_id": {
+            "$oid": "5c6ba00e2f87d30024a9b4e5"
+        },
+        "active": true,
+        "author": "",
+        "created_at": {
+            "$date": 1550557198572
+        },
+        "description": "",
+        "domain_id": {
+            "$oid": "5c6b9fe66ba081001d382390"
+        },
+        "modified_at": {
+            "$date": 1551944380097
+        },
+        "story_name": "Find Funds"
+    },
+    {
+        "_id": {
+            "$oid": "5c6ce6682c3a0702d04ba029"
+        },
+        "active": true,
+        "author": "",
+        "created_at": {
+            "$date": 1550640744621
+        },
+        "description": "",
+        "domain_id": {
+            "$oid": "5c6b9fe66ba081001d382390"
+        },
+        "modified_at": {
+            "$date": 1550640744621
+        },
+        "story_name": "Get Information"
+    },
+    {
+        "_id": {
+            "$oid": "5c87834c9d496f00e41fc3ef"
+        },
+        "active": true,
+        "author": "",
+        "created_at": {
+            "$date": 1552384844950
+        },
+        "description": "",
+        "domain_id": {
+            "$oid": "5c6b9fe66ba081001d382390"
+        },
+        "modified_at": {
+            "$date": 1553244865675
+        },
+        "story_name": "Testing"
+    },
+    {
+        "_id": {
+            "$oid": "5c94a0e02d42b20024b223ec"
+        },
+        "active": true,
+        "author": "",
+        "created_at": {
+            "$date": 1553244384927
+        },
+        "description": "",
+        "domain_id": {
+            "$oid": "5c6b9fe66ba081001d382390"
+        },
+        "modified_at": {
+            "$date": 1553244384927
+        },
+        "story_name": "templates"
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb8750a1100024150f83"
+        },
+        "active": true,
+        "author": "",
+        "created_at": {
+            "$date": 1553251207017
+        },
+        "description": "",
+        "domain_id": {
+            "$oid": "5c6b9fe66ba081001d382390"
+        },
+        "modified_at": {
+            "$date": 1553251207017
+        },
+        "story_name": "Templates New"
+    }
+]

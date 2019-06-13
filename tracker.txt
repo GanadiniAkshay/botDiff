@@ -1,0 +1,66 @@
+Things that need to be tracked:
+
+1) Bot [domainModel]
+    a) Bot Name Changed
+    b) Bot Description Changed
+    c) Business Changed
+    d) Partner Changed
+    e) Bot Deployment Environment Changed
+    f) Bot Test Base URL Changed
+    g) Bot Production Base URL Changed
+    h) Personality Changed
+    i) Bot Status Changed
+    j) Bot Gender Changed
+    k) Name of Creator Changed
+    l) Name of app Changed
+    m) Feedback Smart Action Link Changed
+    n) Company Website Changed
+    o) Where does bot live Changed 
+2) Stories [storyModel]
+    a) New Stories Created
+    b) Stories Deleted
+    c) Story Name Edited
+3) SubStories [storyModel + subStoryModel]
+    a) New SubStory Created
+    b) SubStory Deleted
+    c) SubStory Edited
+4) Node
+    a) New Node Created [nodeModel]
+    b) Node Edited
+    c) Node Deleted [nodeModel]
+
+
+Node Edited:
+
+1) Node Information [nodeModel]
+2) User Says
+    a) Independent Response - User says removed 
+    b) Independent Response - User says added
+    c) Node Specific Response - User says added
+    d) Node Specific Response - User says removed
+    e) Node Specific Response - New Node Connected
+3) Bot Says
+    a) New Bot Says added
+    b) New Entity added
+    c) Entity removed
+    d) Entity Fallback Question Changed
+    e) Final Response added
+    f) Final Response removed
+    g) Follow Up Message Added
+    h) Follow Up Message Removed
+    i) Follow Up Message Delay Changed
+4) Connections
+    a) Connection Removed
+    b) Connection Added
+    c) Connection Changed
+5) Integrations
+    a) Response Before Added
+    b) Response Before removed
+    c) Response After Added
+    d) Response After Removed
+    e) Integration Path Changed
+    f) Integration Path Added
+    g) Integration Path Removed
+    h) Override Added
+    i) Override Removed
+    j) Override Changed

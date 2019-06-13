@@ -1,0 +1,1519 @@
+[
+    {
+        "_id": {
+            "$oid": "5c6ba03464a6e5001f9b2ce1"
+        },
+        "active": true,
+        "athena_name": "fund finder",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550557236819
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550557236819
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_FINDER",
+        "node_only_entities": [
+            "person_name"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Find Funds",
+        "sub_story_id": {
+            "$oid": "5c6ba0232f87d30024a9b4e6"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6bd9af6035c60021333a1d"
+        },
+        "active": true,
+        "athena_name": "long term",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550571951457
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550571951457
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Find_Funds::LONG_TERM",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {},
+        "root_node": false,
+        "story_name": "Find Funds",
+        "sub_story_id": {
+            "$oid": "5c6ba0232f87d30024a9b4e6"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6bfafb0e18de002119623b"
+        },
+        "active": true,
+        "athena_name": "fund_type_high",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550580475703
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550580475703
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_SELECTOR",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": false,
+        "story_name": "Find Funds",
+        "sub_story_id": {
+            "$oid": "5c6ba0232f87d30024a9b4e6"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6bfb9ff09c4300203cfe9a"
+        },
+        "active": true,
+        "athena_name": "fund_type_low",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550580639594
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550580639594
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_LOW",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": false,
+        "story_name": "Find Funds",
+        "sub_story_id": {
+            "$oid": "5c6ba0232f87d30024a9b4e6"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6bfbba39e85e001fe70f0c"
+        },
+        "active": true,
+        "athena_name": "fund_type_moderate",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550580666735
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550580666735
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_MODERATE",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "",
+            "api_integration_url": "http://hello.akshay.com/",
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "Find Funds",
+        "sub_story_id": {
+            "$oid": "5c6ba0232f87d30024a9b4e6"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6bfe440e18de00da196238"
+        },
+        "active": true,
+        "athena_name": "fund_length",
+        "complete_chat": true,
+        "created_at": {
+            "$date": 1550581316468
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550581316468
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_LENGTH",
+        "node_only_entities": [
+            "fund_length"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": 20
+        },
+        "root_node": false,
+        "story_name": "Find Funds",
+        "sub_story_id": {
+            "$oid": "5c6ba0232f87d30024a9b4e6"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6ce69ac738af02da5eaf57"
+        },
+        "active": true,
+        "athena_name": "learn mutual funds",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550640794872
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550640794872
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Get_Information::LEARN_MUTUAL_FUNDS",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Get Information",
+        "sub_story_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6ced84c738af02b45eaf55"
+        },
+        "active": true,
+        "athena_name": "terminology",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550642564674
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550642564674
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Get_Information::TERMINOLOGY",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Get Information",
+        "sub_story_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6cef4639e85e0270e70f0c"
+        },
+        "active": true,
+        "athena_name": "comparisons",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550643014470
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550643014470
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Get_Information::COMPARISONS",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Get Information",
+        "sub_story_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6cef532c3a0702d04ba02b"
+        },
+        "active": true,
+        "athena_name": "process",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550643027493
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550643027493
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Get_Information::PROCESS",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Get Information",
+        "sub_story_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6cef61f09c4302c53cfe9c"
+        },
+        "active": true,
+        "athena_name": "timing",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550643041689
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550643041689
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Get_Information::TIMING",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {},
+        "root_node": true,
+        "story_name": "Get Information",
+        "sub_story_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6d060d6b13d700239af2a2"
+        },
+        "active": true,
+        "athena_name": "SIP",
+        "complete_chat": true,
+        "created_at": {
+            "$date": 1550648845335
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550648845335
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Get_Information::SIP",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Get Information",
+        "sub_story_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6d0fdd0eff9300245a245f"
+        },
+        "active": true,
+        "athena_name": "Demat",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550651357327
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550651357327
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Get_Information::DEMAT",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Get Information",
+        "sub_story_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6d0ff2f05b47001dc92319"
+        },
+        "active": true,
+        "athena_name": "NAV",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550651378464
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550651378464
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Get_Information::NAV",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Get Information",
+        "sub_story_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c6d1002f05b47001ec92319"
+        },
+        "active": true,
+        "athena_name": "ELSS",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1550651394197
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1550651394197
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Get_Information::ELSS",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Get Information",
+        "sub_story_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c7f9f510fef4a01160465cd"
+        },
+        "active": true,
+        "athena_name": "hkjh",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1551867729591
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1551867729591
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Get_Information::HKJH",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": false,
+        "story_name": "Get Information",
+        "sub_story_id": {
+            "$oid": "5c6ce677f09c4302793cfe9b"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c87836567bce800d9c2ff7d"
+        },
+        "active": true,
+        "athena_name": "General",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1552384869631
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1552384869631
+        },
+        "negation": [],
+        "node_name": "akshay_fund_test::Testing::GENERAL",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Testing",
+        "sub_story_id": {
+            "$oid": "5c878357d3464500b20f5644"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c5697"
+        },
+        "active": true,
+        "athena_name": "Not Interested",
+        "complete_chat": true,
+        "created_at": {
+            "$date": 1553240209021
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553240209021
+        },
+        "negation": [],
+        "node_name": "LEADGEN_NOT_INTERESTED_V7",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "en": {
+                "node_default_message": [
+                    "{\"text\":\"No worries! I'm always here if you change your mind. \ud83d\ude42\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+                ],
+                "node_default_quick_response": [],
+                "node_delay_message": null
+            },
+            "node_delay_message_timeout": null
+        },
+        "root_node": false,
+        "story_name": "Testing",
+        "sub_story_id": {
+            "$oid": "5c9490912de0aa00213c5696"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c5698"
+        },
+        "active": true,
+        "athena_name": "Eligible",
+        "complete_chat": true,
+        "created_at": {
+            "$date": 1553240209027
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553240209027
+        },
+        "negation": [],
+        "node_name": "LEADGEN_ELIGIBLE_V7",
+        "node_only_entities": [
+            "phone_number",
+            "completion_phone_number",
+            "completion_email",
+            "utils_city",
+            "user_name",
+            "email"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_default_message": [
+                    "{\"text\":\"Thanks! We'll be in touch. \ud83d\ude0a\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"< \ud83d\udc7eAPI Tip >\\n\\nOnce the user has input all information, the API will call and user information will be sent to partner sponsor. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+                ],
+                "node_default_quick_response": [],
+                "node_delay_message": null
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "Testing",
+        "sub_story_id": {
+            "$oid": "5c9490912de0aa00213c5696"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c5699"
+        },
+        "active": true,
+        "athena_name": "PAN Card",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553240209032
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553240209033
+        },
+        "negation": [],
+        "node_name": "PAN_CARD_V7",
+        "node_only_entities": [
+            "pan_card"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "en": {
+                "node_delay_message": null
+            },
+            "node_delay_message_timeout": null
+        },
+        "root_node": false,
+        "story_name": "Testing",
+        "sub_story_id": {
+            "$oid": "5c9490912de0aa00213c5696"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c569a"
+        },
+        "active": true,
+        "athena_name": "Name Phone Email",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553240209038
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553240209038
+        },
+        "negation": [],
+        "node_name": "QUALIFICATION_DATA_V7",
+        "node_only_entities": [
+            "phone_number",
+            "bot_advertising_merchant_name",
+            "completion_email",
+            "person_name",
+            "email",
+            "date_of_birth",
+            "utils_city",
+            "user_name",
+            "completion_phone_number"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "en": {
+                "node_default_message": [
+                    "Right away! Please help me with the details below to help us get in touch with you. <m>{\"text\":\"{chatform}{494}\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+                ],
+                "node_default_quick_response": [],
+                "node_delay_message": null
+            },
+            "node_delay_message_timeout": null
+        },
+        "root_node": true,
+        "story_name": "Testing",
+        "sub_story_id": {
+            "$oid": "5c9490912de0aa00213c5696"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c569b"
+        },
+        "active": true,
+        "athena_name": "Age Gender Income",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553240209043
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553240209043
+        },
+        "negation": [],
+        "node_name": "QUALIFYING_DATA_V8",
+        "node_only_entities": [
+            "age_range",
+            "coverfox_gender",
+            "exact_age",
+            "user_name"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "en": {
+                "node_delay_message": null
+            },
+            "node_delay_message_timeout": null
+        },
+        "root_node": false,
+        "story_name": "Testing",
+        "sub_story_id": {
+            "$oid": "5c9490912de0aa00213c5696"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c569c"
+        },
+        "active": true,
+        "athena_name": "Ineligible",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553240209048
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553240209048
+        },
+        "negation": [],
+        "node_name": "LEADGEN_INELIGIBLE_V7",
+        "node_only_entities": [],
+        "node_type": 0,
+        "outgoing_responses": {
+            "en": {
+                "node_default_message": [
+                    "{\"text\":\"Thanks for the info! \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}<m>{\"text\":\"At this point, it makes sense to [\u270f\ufe0fsave your hard-earned money for some more time. Once you have enough savings, you can opt for Life Insurance \ud83d\ude07]\",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[]},\"isNew\":false}"
+                ],
+                "node_default_quick_response": [],
+                "node_delay_message": null
+            },
+            "node_delay_message_timeout": null
+        },
+        "root_node": false,
+        "story_name": "Testing",
+        "sub_story_id": {
+            "$oid": "5c9490912de0aa00213c5696"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040be95"
+        },
+        "active": true,
+        "athena_name": "Contact Customer Support",
+        "complete_chat": true,
+        "created_at": {
+            "$date": 1553250394604
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553250394604
+        },
+        "negation": [],
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "node_only_entities": [
+            "phone_number",
+            "person_name",
+            "email_no_profile_check",
+            "attempt",
+            "email"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_delay_message": ""
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": 20,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "templates",
+        "sub_story_id": {
+            "$oid": "5c94b85a4c17cb002040be94"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040be96"
+        },
+        "active": true,
+        "athena_name": "Status Attempt 1",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553250394611
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553250394611
+        },
+        "negation": [],
+        "node_name": "STATUS_ATTEMPT_1_V18",
+        "node_only_entities": [
+            "order_id",
+            "attempt",
+            "invalid_pnr"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_default_message": [
+                    "Sure, help me by providing your order ID."
+                ],
+                "node_default_quick_response": [],
+                "node_delay_message": null
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": true,
+        "story_name": "templates",
+        "sub_story_id": {
+            "$oid": "5c94b85a4c17cb002040be94"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040be97"
+        },
+        "active": true,
+        "athena_name": "Status Attempt 2",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553250394617
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553250394617
+        },
+        "negation": [],
+        "node_name": "STATUS_ATTEMPT_2_V18",
+        "node_only_entities": [
+            "order_id",
+            "attempt",
+            "invalid_pnr",
+            "person_name",
+            "phone_number",
+            "email_no_profile_check"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_delay_message": null
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "templates",
+        "sub_story_id": {
+            "$oid": "5c94b85a4c17cb002040be94"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040be98"
+        },
+        "active": true,
+        "athena_name": "Status Attempt 3",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553250394622
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553250394622
+        },
+        "negation": [],
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "node_only_entities": [
+            "phone_number",
+            "email_no_profile_check",
+            "attempt",
+            "order_id",
+            "completion_email",
+            "invalid_pnr",
+            "person_name",
+            "email"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_delay_message": null
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "templates",
+        "sub_story_id": {
+            "$oid": "5c94b85a4c17cb002040be94"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040be99"
+        },
+        "active": true,
+        "athena_name": "Find Order ID",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553250394627
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553250394628
+        },
+        "negation": [],
+        "node_name": "FIND_ORDER_ID_V18",
+        "node_only_entities": [
+            "order_id",
+            "invalid_pnr",
+            "attempt"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "en": {
+                "node_default_message": [
+                    "You can find your [\u270f\ufe0forder ID] in two places:\n\u25cf [\u270f\ufe0fin the confirmation email sent to your registered email ID]\n\u25cf [\u270f\ufe0fin your profile details on our website]<m>{\"text\":\"Found your order ID? Enter it here. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"\ud83d\udea8Still can't find it\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"\ud83d\udea8Still can't find it\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+                ],
+                "node_default_quick_response": [],
+                "node_delay_message": null
+            },
+            "node_delay_message_timeout": null
+        },
+        "root_node": false,
+        "story_name": "templates",
+        "sub_story_id": {
+            "$oid": "5c94b85a4c17cb002040be94"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8db"
+        },
+        "active": true,
+        "athena_name": "Contact Customer Support",
+        "complete_chat": true,
+        "created_at": {
+            "$date": 1553250435177
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553250435177
+        },
+        "negation": [],
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "node_only_entities": [
+            "phone_number",
+            "person_name",
+            "email_no_profile_check",
+            "attempt",
+            "email"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_delay_message": ""
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": 20,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "templates",
+        "sub_story_id": {
+            "$oid": "5c94b88394c830002163c8da"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8dc"
+        },
+        "active": true,
+        "athena_name": "Status Attempt 1",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553250435182
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553250435182
+        },
+        "negation": [],
+        "node_name": "STATUS_ATTEMPT_1_V19",
+        "node_only_entities": [
+            "order_id",
+            "attempt",
+            "invalid_pnr"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_default_message": [
+                    "Sure, help me by providing your order ID."
+                ],
+                "node_default_quick_response": [],
+                "node_delay_message": null
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": true,
+        "story_name": "templates",
+        "sub_story_id": {
+            "$oid": "5c94b88394c830002163c8da"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8dd"
+        },
+        "active": true,
+        "athena_name": "Status Attempt 2",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553250435187
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553250435187
+        },
+        "negation": [],
+        "node_name": "STATUS_ATTEMPT_2_V19",
+        "node_only_entities": [
+            "order_id",
+            "attempt",
+            "invalid_pnr",
+            "person_name",
+            "phone_number",
+            "email_no_profile_check"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_delay_message": null
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "templates",
+        "sub_story_id": {
+            "$oid": "5c94b88394c830002163c8da"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8de"
+        },
+        "active": true,
+        "athena_name": "Status Attempt 3",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553250435192
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553250435192
+        },
+        "negation": [],
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "node_only_entities": [
+            "phone_number",
+            "email_no_profile_check",
+            "attempt",
+            "order_id",
+            "completion_email",
+            "invalid_pnr",
+            "person_name",
+            "email"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_delay_message": null
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "templates",
+        "sub_story_id": {
+            "$oid": "5c94b88394c830002163c8da"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8df"
+        },
+        "active": true,
+        "athena_name": "Find Order ID",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553250435197
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553250435197
+        },
+        "negation": [],
+        "node_name": "FIND_ORDER_ID_V19",
+        "node_only_entities": [
+            "order_id",
+            "invalid_pnr",
+            "attempt"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "en": {
+                "node_default_message": [
+                    "You can find your [\u270f\ufe0forder ID] in two places:\n\u25cf [\u270f\ufe0fin the confirmation email sent to your registered email ID]\n\u25cf [\u270f\ufe0fin your profile details on our website]<m>{\"text\":\"Found your order ID? Enter it here. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"\ud83d\udea8Still can't find it\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"\ud83d\udea8Still can't find it\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+                ],
+                "node_default_quick_response": [],
+                "node_delay_message": null
+            },
+            "node_delay_message_timeout": null
+        },
+        "root_node": false,
+        "story_name": "templates",
+        "sub_story_id": {
+            "$oid": "5c94b88394c830002163c8da"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7c8"
+        },
+        "active": true,
+        "athena_name": "Contact Customer Support",
+        "complete_chat": true,
+        "created_at": {
+            "$date": 1553251222463
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553251222463
+        },
+        "negation": [],
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "node_only_entities": [
+            "phone_number",
+            "person_name",
+            "email_no_profile_check",
+            "attempt",
+            "email"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_delay_message": ""
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": 20,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "Templates New",
+        "sub_story_id": {
+            "$oid": "5c94bb9653d88c00213cc7c7"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7c9"
+        },
+        "active": true,
+        "athena_name": "Status Attempt 1",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553251222468
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553251222468
+        },
+        "negation": [],
+        "node_name": "STATUS_ATTEMPT_1_V20",
+        "node_only_entities": [
+            "order_id",
+            "attempt",
+            "invalid_pnr"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_default_message": [
+                    "Sure, help me by providing your order ID."
+                ],
+                "node_default_quick_response": [],
+                "node_delay_message": null
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": true,
+        "story_name": "Templates New",
+        "sub_story_id": {
+            "$oid": "5c94bb9653d88c00213cc7c7"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7ca"
+        },
+        "active": true,
+        "athena_name": "Status Attempt 2",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553251222473
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553251222473
+        },
+        "negation": [],
+        "node_name": "STATUS_ATTEMPT_2_V20",
+        "node_only_entities": [
+            "order_id",
+            "attempt",
+            "invalid_pnr",
+            "person_name",
+            "phone_number",
+            "email_no_profile_check"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_delay_message": null
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "Templates New",
+        "sub_story_id": {
+            "$oid": "5c94bb9653d88c00213cc7c7"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7cb"
+        },
+        "active": true,
+        "athena_name": "Status Attempt 3",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553251222478
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553251222478
+        },
+        "negation": [],
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "node_only_entities": [
+            "phone_number",
+            "email_no_profile_check",
+            "attempt",
+            "order_id",
+            "completion_email",
+            "invalid_pnr",
+            "person_name",
+            "email"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "api_function": "mogambo.lib.mogambo.template_utils.dummy_integration_response",
+            "api_integration_url": "",
+            "en": {
+                "after_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "before_api_response": {
+                    "outgoing_quick_response": [],
+                    "outgoing_response": []
+                },
+                "node_delay_message": null
+            },
+            "entity_function": "",
+            "node_delay_message_timeout": null,
+            "secret_key": ""
+        },
+        "root_node": false,
+        "story_name": "Templates New",
+        "sub_story_id": {
+            "$oid": "5c94bb9653d88c00213cc7c7"
+        },
+        "temporary_node": false
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7cc"
+        },
+        "active": true,
+        "athena_name": "Find Order ID",
+        "complete_chat": false,
+        "created_at": {
+            "$date": 1553251222483
+        },
+        "domain_name": "akshay_fund_test",
+        "faq_id": 0,
+        "model_name": "",
+        "modified_at": {
+            "$date": 1553251222483
+        },
+        "negation": [],
+        "node_name": "FIND_ORDER_ID_V20",
+        "node_only_entities": [
+            "order_id",
+            "invalid_pnr",
+            "attempt"
+        ],
+        "node_type": 0,
+        "outgoing_responses": {
+            "en": {
+                "node_default_message": [
+                    "You can find your [\u270f\ufe0forder ID] in two places:\n\u25cf [\u270f\ufe0fin the confirmation email sent to your registered email ID]\n\u25cf [\u270f\ufe0fin your profile details on our website]<m>{\"text\":\"Found your order ID? Enter it here. \",\"type\":\"TEXT\",\"data\":{\"quick_replies\":[{\"actionable_text\":\"\ud83d\udea8Still can't find it\",\"is_default\":0,\"type\":\"TEXT_ONLY\",\"payload\":{\"link\":\"\",\"message\":\"\ud83d\udea8Still can't find it\",\"gogo_message\":\"\"}}]},\"isNew\":false}"
+                ],
+                "node_default_quick_response": [],
+                "node_delay_message": null
+            },
+            "node_delay_message_timeout": null
+        },
+        "root_node": false,
+        "story_name": "Templates New",
+        "sub_story_id": {
+            "$oid": "5c94bb9653d88c00213cc7c7"
+        },
+        "temporary_node": false
+    }
+]

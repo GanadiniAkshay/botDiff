@@ -1,0 +1,107 @@
+[
+    {
+        "_id": {
+            "$oid": "5c6b9fe66ba081001d382390"
+        },
+        "active": true,
+        "athena_name": "",
+        "author": "Haptik",
+        "bot_properties": {
+            "persona": 0,
+            "reply_tags": {
+                "en": {
+                    "%botgender": "Male",
+                    "%botname": "akshay_fund_test",
+                    "%company": "Haptik"
+                }
+            }
+        },
+        "classifier_redirect": [],
+        "client": "demo",
+        "created_at": {
+            "$date": 1550557158319
+        },
+        "description": "A mutual funds chatbot",
+        "domain_name": "akshay_fund_test",
+        "domain_type": 0,
+        "entities_collection": [
+            "fund_length",
+            "email_no_profile_check",
+            "attempt",
+            "bot_advertising_merchant_name",
+            "completion_email",
+            "utils_city",
+            "phone_number",
+            "completion_phone_number",
+            "invalid_pnr",
+            "risk_tolerance",
+            "pan_card",
+            "person_name",
+            "coverfox_gender",
+            "exact_age",
+            "answer",
+            "user_name",
+            "order_id",
+            "age_range",
+            "fund_types",
+            "date_of_birth",
+            "email"
+        ],
+        "entities_node_detection": [
+            "answer",
+            "risk_tolerance",
+            "fund_types",
+            "age_range",
+            "exact_age"
+        ],
+        "integration_config": {
+            "active_env": "test",
+            "base_url_production": "",
+            "base_url_test": ""
+        },
+        "modified_at": {
+            "$date": 1550557158319
+        },
+        "sensim_config": {},
+        "sensim_global_diff_threshold": 0.2,
+        "sensim_global_threshold": 0.5,
+        "sensim_models_priority": [
+            "sensim_v1",
+            "sensim_v2",
+            "sensim_v3"
+        ],
+        "sensim_v1_threshold": 0.5,
+        "sensim_v1_weights": {
+            "bigram_min_df": 1,
+            "bigram_tag_min_df": 1,
+            "bigram_tag_weight": 0,
+            "bigram_weight": 1,
+            "char_weight": 1,
+            "max_char_ngram_range": 2,
+            "min_char_ngram_range": 2,
+            "phrase_feature_weight": 1,
+            "phrase_tag_feature_weight": 1,
+            "trigram_min_df": 1,
+            "trigram_tag_min_df": 1,
+            "trigram_tag_weight": 0,
+            "trigram_weight": 1,
+            "unigram_min_df": 1,
+            "unigram_tag_min_df": 1,
+            "unigram_tag_weight": 0,
+            "unigram_weight": 1
+        },
+        "sensim_v2_threshold": 0.5,
+        "sensim_v3_threshold": 0.7,
+        "sequence_model_name": "",
+        "supported_languages": [
+            "en",
+            "hi"
+        ],
+        "use_pre_sensim_classifier": false,
+        "use_sensim_v1": false,
+        "use_sensim_v2": true,
+        "use_sensim_v3": true,
+        "use_translation": false,
+        "use_transliteration": false
+    }
+]

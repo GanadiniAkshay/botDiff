@@ -1,0 +1,2643 @@
+[
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bea2"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250394685
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250394685
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "priority": 3
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bea3"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250394687
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b9793"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250394687
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V18",
+            "STATUS_ATTEMPT_3_V18",
+            "STATUS_ATTEMPT_3_V18"
+        ],
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bea4"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "4"
+        ],
+        "created_at": {
+            "$date": 1553250394688
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250394688
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bea5"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250394689
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250394689
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bea6"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250394690
+        },
+        "entity_id": {
+            "$oid": "5add89140985f0673facbdf8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250394690
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V18",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8e8"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435259
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435259
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "priority": 3
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8e9"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435260
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b9793"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435260
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V19",
+            "STATUS_ATTEMPT_3_V19",
+            "STATUS_ATTEMPT_3_V19"
+        ],
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8ea"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "4"
+        ],
+        "created_at": {
+            "$date": 1553250435262
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435262
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8eb"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435263
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435263
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c8ec"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435265
+        },
+        "entity_id": {
+            "$oid": "5add89140985f0673facbdf8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435265
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V19",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7d5"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251222545
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251222545
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "priority": 3
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7d6"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251222546
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b9793"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251222546
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V20",
+            "STATUS_ATTEMPT_3_V20",
+            "STATUS_ATTEMPT_3_V20"
+        ],
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7d7"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "4"
+        ],
+        "created_at": {
+            "$date": 1553251222548
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251222548
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7d8"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251222549
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251222549
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc7d9"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251222551
+        },
+        "entity_id": {
+            "$oid": "5add89140985f0673facbdf8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251222551
+        },
+        "node_defining_entity": [],
+        "node_name": "CUSTOMER_SUPPORT_V20",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf2c"
+        },
+        "active": false,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395227
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250395227
+        },
+        "node_defining_entity": [],
+        "node_name": "FIND_ORDER_ID_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf2d"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395229
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250395229
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_1_V18",
+            "STATUS_ATTEMPT_1_V18"
+        ],
+        "node_name": "FIND_ORDER_ID_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf2e"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395231
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395231
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_1_V18"
+        ],
+        "node_name": "FIND_ORDER_ID_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c972"
+        },
+        "active": false,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435914
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250435914
+        },
+        "node_defining_entity": [],
+        "node_name": "FIND_ORDER_ID_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c973"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435916
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250435916
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_1_V19",
+            "STATUS_ATTEMPT_1_V19"
+        ],
+        "node_name": "FIND_ORDER_ID_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c974"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435917
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435917
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_1_V19"
+        ],
+        "node_name": "FIND_ORDER_ID_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc85f"
+        },
+        "active": false,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223233
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553251223233
+        },
+        "node_defining_entity": [],
+        "node_name": "FIND_ORDER_ID_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc860"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223235
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553251223235
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_1_V20",
+            "STATUS_ATTEMPT_1_V20"
+        ],
+        "node_name": "FIND_ORDER_ID_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc861"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223236
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223236
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_1_V20"
+        ],
+        "node_name": "FIND_ORDER_ID_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56b2"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209149
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553240209149
+        },
+        "node_defining_entity": [],
+        "node_name": "LEADGEN_ELIGIBLE_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56b3"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209151
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b9793"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553240209151
+        },
+        "node_defining_entity": [],
+        "node_name": "LEADGEN_ELIGIBLE_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56b4"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209152
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b97cc"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553240209152
+        },
+        "node_defining_entity": [],
+        "node_name": "LEADGEN_ELIGIBLE_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56b5"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209153
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b976c"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553240209153
+        },
+        "node_defining_entity": [],
+        "node_name": "LEADGEN_ELIGIBLE_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56b6"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209154
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b976e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553240209154
+        },
+        "node_defining_entity": [],
+        "node_name": "LEADGEN_ELIGIBLE_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56b7"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209155
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b976d"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553240209155
+        },
+        "node_defining_entity": [],
+        "node_name": "LEADGEN_ELIGIBLE_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56c1"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209227
+        },
+        "entity_id": {
+            "$oid": "59368b010985f02da4a933c9"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553240209227
+        },
+        "node_defining_entity": [],
+        "node_name": "PAN_CARD_V7",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56ca"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209276
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b9793"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553240209277
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFICATION_DATA_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56cb"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209278
+        },
+        "entity_id": {
+            "$oid": "59368b010985f02da4a933c8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553240209278
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFICATION_DATA_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56cc"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209279
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b97cc"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553240209279
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFICATION_DATA_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56cd"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209280
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553240209280
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFICATION_DATA_V7",
+        "priority": 3
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56ce"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209281
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b976c"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553240209281
+        },
+        "node_defining_entity": [
+            "QUALIFYING_DATA_V8"
+        ],
+        "node_name": "QUALIFICATION_DATA_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56cf"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209282
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b976e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553240209283
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFICATION_DATA_V7",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56d0"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209284
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b976d"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553240209284
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFICATION_DATA_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56d1"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209285
+        },
+        "entity_id": {
+            "$oid": "5a4b54800985f00df49cc1a3"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553240209285
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFICATION_DATA_V7",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56d2"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209286
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553240209286
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFICATION_DATA_V7",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56d9"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209369
+        },
+        "entity_id": {
+            "$oid": "598422090985f07a2204ac76"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553240209369
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFYING_DATA_V8",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56da"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209371
+        },
+        "entity_id": {
+            "$oid": "598422090985f07a2204ac77"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553240209371
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFYING_DATA_V8",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56db"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209372
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b976c"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553240209372
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFYING_DATA_V8",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c9490912de0aa00213c56dc"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553240209373
+        },
+        "entity_id": {
+            "$oid": "5a79ab430985f0332896788a"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553240209373
+        },
+        "node_defining_entity": [],
+        "node_name": "QUALIFYING_DATA_V8",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bf0b"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250394987
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250394987
+        },
+        "node_defining_entity": [
+            "FIND_ORDER_ID_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_1_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bf0c"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "1"
+        ],
+        "created_at": {
+            "$date": 1553250394988
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250394988
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_1_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85a4c17cb002040bf0d"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250394989
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250394989
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V18",
+            "STATUS_ATTEMPT_2_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_1_V18",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c951"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435627
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250435627
+        },
+        "node_defining_entity": [
+            "FIND_ORDER_ID_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_1_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c952"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "1"
+        ],
+        "created_at": {
+            "$date": 1553250435628
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435628
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_1_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c953"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435630
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250435630
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V19",
+            "STATUS_ATTEMPT_2_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_1_V19",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc83e"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251222942
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553251222942
+        },
+        "node_defining_entity": [
+            "FIND_ORDER_ID_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_1_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc83f"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "1"
+        ],
+        "created_at": {
+            "$date": 1553251222944
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251222944
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_1_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9653d88c00213cc840"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251222945
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553251222945
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V20",
+            "STATUS_ATTEMPT_2_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_1_V20",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf13"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395062
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250395062
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_1_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf14"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "2"
+        ],
+        "created_at": {
+            "$date": 1553250395063
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395063
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf15"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395064
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250395064
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V18",
+            "STATUS_ATTEMPT_3_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V18",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf16"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395066
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395066
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf17"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395067
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395067
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf18"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395068
+        },
+        "entity_id": {
+            "$oid": "5add89140985f0673facbdf8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395068
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V18",
+            "STATUS_ATTEMPT_3_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c959"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435716
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250435716
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_1_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c95a"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "2"
+        ],
+        "created_at": {
+            "$date": 1553250435717
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435717
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c95b"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435719
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250435719
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V19",
+            "STATUS_ATTEMPT_3_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V19",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c95c"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435720
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435720
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c95d"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435722
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435722
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c95e"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435723
+        },
+        "entity_id": {
+            "$oid": "5add89140985f0673facbdf8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435723
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V19",
+            "STATUS_ATTEMPT_3_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc846"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223033
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553251223033
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_1_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc847"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "2"
+        ],
+        "created_at": {
+            "$date": 1553251223034
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223034
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc848"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223036
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553251223036
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V20",
+            "STATUS_ATTEMPT_3_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V20",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc849"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223038
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223038
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc84a"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223039
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223039
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc84b"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223041
+        },
+        "entity_id": {
+            "$oid": "5add89140985f0673facbdf8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223041
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_3_V20",
+            "STATUS_ATTEMPT_3_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_2_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf21"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395145
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250395145
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf22"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395146
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395146
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf23"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395147
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b976e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395147
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf24"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395148
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395148
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "priority": 4
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf25"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395149
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b9793"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395149
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf26"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395151
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250395151
+        },
+        "node_defining_entity": [],
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf27"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "3"
+        ],
+        "created_at": {
+            "$date": 1553250395152
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395152
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b85b4c17cb002040bf28"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250395153
+        },
+        "entity_id": {
+            "$oid": "5add89140985f0673facbdf8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250395153
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18",
+            "CUSTOMER_SUPPORT_V18"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V18",
+        "priority": 3
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c967"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435814
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250435814
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c968"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435815
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435815
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c969"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435817
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b976e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435817
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c96a"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435818
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435818
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "priority": 4
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c96b"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435820
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b9793"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435820
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c96c"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435821
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553250435821
+        },
+        "node_defining_entity": [],
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c96d"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "3"
+        ],
+        "created_at": {
+            "$date": 1553250435823
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435823
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94b88394c830002163c96e"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553250435824
+        },
+        "entity_id": {
+            "$oid": "5add89140985f0673facbdf8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553250435824
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19",
+            "CUSTOMER_SUPPORT_V19"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V19",
+        "priority": 3
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc854"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223133
+        },
+        "entity_id": {
+            "$oid": "5b011395c63642dd65fb5672"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553251223133
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc855"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223135
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223135
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc856"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223136
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b976e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223136
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc857"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223138
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223138
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "priority": 4
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc858"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223140
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b9793"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223140
+        },
+        "node_defining_entity": [
+            "STATUS_ATTEMPT_2_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc859"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223141
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9827"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1553251223141
+        },
+        "node_defining_entity": [],
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc85a"
+        },
+        "active": true,
+        "compulsory": false,
+        "constant_value": [
+            "3"
+        ],
+        "created_at": {
+            "$date": 1553251223143
+        },
+        "entity_id": {
+            "$oid": "58f75e0f0985f00b783b9820"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223143
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "priority": 0
+    },
+    {
+        "_id": {
+            "$oid": "5c94bb9753d88c00213cc85b"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1553251223144
+        },
+        "entity_id": {
+            "$oid": "5add89140985f0673facbdf8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1553251223144
+        },
+        "node_defining_entity": [
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20",
+            "CUSTOMER_SUPPORT_V20"
+        ],
+        "node_name": "STATUS_ATTEMPT_3_V20",
+        "priority": 3
+    },
+    {
+        "_id": {
+            "$oid": "5c6bd6dff2a4fe0021f7c645"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1550571231129
+        },
+        "entity_id": {
+            "$oid": "5a684ba30985f0050a22a533"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1550571231129
+        },
+        "node_defining_entity": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_FINDER",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c6bd6dff2a4fe0021f7c646"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1550571231145
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b9793"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1550571231145
+        },
+        "node_defining_entity": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_FINDER",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c6bd9693fe5dd0024145922"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1550571881416
+        },
+        "entity_id": {
+            "$oid": "58f75e0d0985f00b783b974e"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1550571881416
+        },
+        "node_defining_entity": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_FINDER",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c6bdaa1cf1d6e001f8669f9"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1550572193575
+        },
+        "entity_id": {
+            "$oid": "58f75e0e0985f00b783b9795"
+        },
+        "entity_presence": [],
+        "entity_value": {
+            "Yes": [
+                "akshay_fund_test::Find_Funds::LONG_TERM"
+            ]
+        },
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1550572193575
+        },
+        "node_defining_entity": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_FINDER",
+        "priority": 3
+    },
+    {
+        "_id": {
+            "$oid": "5c6bf87d2c3a0700214ba02d"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1550579837967
+        },
+        "entity_id": {
+            "$oid": "5c6bf6c80e18de002019623c"
+        },
+        "entity_presence": [],
+        "entity_value": {
+            "High": [
+                "akshay_fund_test::Find_Funds::FUND_TYPE_SELECTOR"
+            ],
+            "Low": [
+                "akshay_fund_test::Find_Funds::FUND_TYPE_LOW"
+            ],
+            "Moderate": [
+                "akshay_fund_test::Find_Funds::FUND_TYPE_MODERATE"
+            ]
+        },
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1550579837967
+        },
+        "node_defining_entity": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_FINDER",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c6c01242c3a0700b34ba02a"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1550582052847
+        },
+        "entity_id": {
+            "$oid": "5c6c008339e85e00bfe70f0a"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1550582052847
+        },
+        "node_defining_entity": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_LENGTH",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c6c005639e85e0099e70f0c"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1550581846055
+        },
+        "entity_id": {
+            "$oid": "5c6bfec50e18de00db196237"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1550581846055
+        },
+        "node_defining_entity": [
+            "akshay_fund_test::Find_Funds::FUND_LENGTH"
+        ],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_LOW",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c864a1ee70baa00c9ec3aa0"
+        },
+        "active": false,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1552304670593
+        },
+        "entity_id": {
+            "$oid": "59368b010985f02da4a933c8"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": false,
+        "modified_at": {
+            "$date": 1552304670593
+        },
+        "node_defining_entity": [],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_LOW",
+        "priority": 2
+    },
+    {
+        "_id": {
+            "$oid": "5c6bfffbc738af00a95eaf54"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1550581755246
+        },
+        "entity_id": {
+            "$oid": "5c6bfec50e18de00db196237"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1550581755246
+        },
+        "node_defining_entity": [
+            "akshay_fund_test::Find_Funds::FUND_LENGTH"
+        ],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_MODERATE",
+        "priority": 1
+    },
+    {
+        "_id": {
+            "$oid": "5c6bffb60e18de00da19623c"
+        },
+        "active": true,
+        "compulsory": true,
+        "constant_value": [],
+        "created_at": {
+            "$date": 1550581686832
+        },
+        "entity_id": {
+            "$oid": "5c6bfec50e18de00db196237"
+        },
+        "entity_presence": [],
+        "entity_value": {},
+        "intent_tag": true,
+        "modified_at": {
+            "$date": 1550581686832
+        },
+        "node_defining_entity": [
+            "akshay_fund_test::Find_Funds::FUND_LENGTH"
+        ],
+        "node_name": "akshay_fund_test::Find_Funds::FUND_TYPE_SELECTOR",
+        "priority": 1
+    }
+]
